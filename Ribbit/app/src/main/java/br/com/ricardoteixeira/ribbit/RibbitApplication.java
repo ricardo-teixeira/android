@@ -1,4 +1,4 @@
-package br.com.ricardo.ribbit;
+package br.com.ricardoteixeira.ribbit;
 
 import android.app.Application;
 

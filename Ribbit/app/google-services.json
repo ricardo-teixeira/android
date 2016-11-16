@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "203683408522",
+    "firebase_url": "https://ribbit-cdb41.firebaseio.com",
+    "project_id": "ribbit-cdb41",
+    "storage_bucket": "ribbit-cdb41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203683408522:android:f25a021423f4b8f0",
+        "android_client_info": {
+          "package_name": "br.com.ricardoteixeira.ribbit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203683408522-898eif1dkt0hbh7jinehs76hhhu89854.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.ricardoteixeira.ribbit",
+            "certificate_hash": "096B10BD0CB2FD0F4F07591C9B3177318913BEA2"
+          }
+        },
+        {
+          "client_id": "203683408522-3kttg3tic0nl04thbkl5ovdamh343dqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa_PhLMoIOJhxnGaMUs7Xol4Tmht4WYTY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203683408522-3kttg3tic0nl04thbkl5ovdamh343dqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

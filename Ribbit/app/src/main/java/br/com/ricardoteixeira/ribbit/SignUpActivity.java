@@ -1,4 +1,4 @@
-package br.com.ricardo.ribbit;
+package br.com.ricardoteixeira.ribbit;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
